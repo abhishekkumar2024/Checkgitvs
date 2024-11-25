@@ -1,39 +1,30 @@
-.vscode/
-.AppData/
-.VirtualBox/
-.Xilinx/
-.acerjumpstart/
-.atom/
-.config/
-.cookiecutter_replay/
-.docker/
-.dropbox_bi/
-.gitconfig
-.lesshst
-.ssh/
-.th-client/
-.vscode/
-3D Objects/
-AppData/
-Contacts/
-Downloads/
-Dropbox/
-Evernote/
-Favorites/
-IntelGraphicsProfiles/
-Links/
-NTUSER.DAT
-NTUSER.DAT{c2bbb048-dd00-11ed-b955-8efa937d218e}.TM.blf
-NTUSER.DAT{c2bbb048-dd00-11ed-b955-8efa937d218e}.TMContainer00000000000000000001.regtrans-ms
-NTUSER.DAT{c2bbb048-dd00-11ed-b955-8efa937d218e}.TMContainer00000000000000000002.regtrans-ms
-OneDrive/
-PycharmProjects/
-Saved Games/
-Searches/
-abhir/
-backend/
-c++/
-new start with c/
-ntuser.dat.LOG1
-ntuser.dat.LOG2
-ntuser.ini
+# Windows system files
+NTUSER.DAT*
+ntuser.*
+[Tt]humbs.db
+*.log
+
+# User profile directories
+/AppData/
+/Contacts/
+/Downloads/
+/Favorites/
+/Links/
+/Saved Games/
+/Searches/
+
+# Application data folders
+/.Xilinx/
+/.atom/
+/.vscode/
+/Dropbox/
+/Evernote/
+/OneDrive/
+/PycharmProjects/
+/IntelGraphicsProfiles/
+
+# Custom project directories (evaluate if you actually want to ignore these)
+/abhir/
+/backend/
+/c++/
+/new start with c/
